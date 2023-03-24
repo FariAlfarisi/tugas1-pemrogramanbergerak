@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bahasa Pemrograman</string>
+    <string name="mainmenu">Main Menu</string>
+    <string name="java">Java</string>
+    <string name="c">C</string>
+    <string name="php">PHP</string>
+    <string name="menu_drawer_open">Drawer Open</string>
+    <string name="menu_drawer_close">Drawer Close</string>
+</resources>
